@@ -1,0 +1,12 @@
+{
+  "name": "dannfe336",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp simples com respostas programadas",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.5.0"
+  }
+}
